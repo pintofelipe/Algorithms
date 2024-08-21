@@ -3,9 +3,6 @@ fun main() {
 
 
 
-
-
-
     val startTime = System.nanoTime()
 
     println("number $numberOne:")
