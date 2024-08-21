@@ -21,7 +21,6 @@ fun main() {
     println("tha duration is the $duration ms")
 }
 
-
 fun isPerfectNumber(number: Int): Boolean {
     if (number <= 1) return false
     var sum = 0
