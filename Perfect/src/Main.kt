@@ -15,7 +15,6 @@ fun main() {
 
     val endTime = System.nanoTime()
 
-
     val duration = endTime - startTime
 
     println("tha duration is the $duration ms")
