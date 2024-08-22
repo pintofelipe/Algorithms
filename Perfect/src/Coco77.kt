@@ -1,7 +1,5 @@
 fun main(){
-
     val list = mutableListOf<Int>()
-
     while(true){
 
         print("Ingrese un numero o 77 para finalizar: ")
@@ -11,7 +9,6 @@ fun main(){
 
             break;
         }
-
         val number = input?.toIntOrNull()
 
         if(number != null){
@@ -19,7 +16,6 @@ fun main(){
         }else{
             println("Ingrese un número valido!")
         }
-
     }
 
     if (!list.isEmpty()){
@@ -27,7 +23,6 @@ fun main(){
     }else{
         println("la lista esta vacia")
     }
-
 
 
 }
