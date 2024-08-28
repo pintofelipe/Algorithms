@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1724862483 source:c:\users\pc08\desktop\algorithms\matriz\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<chrono>
+
